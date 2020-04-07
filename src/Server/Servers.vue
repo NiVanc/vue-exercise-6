@@ -5,3 +5,13 @@
     </ul>
   </div>
 </template>
+
+<style scoped>
+div {
+  color: teal;
+}
+
+li {
+  border: 1px solid teal;
+}
+</style>

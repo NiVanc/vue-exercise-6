@@ -7,3 +7,9 @@
     </div>
   </div>
 </template>
+
+<style>
+h1 {
+  color: orange;
+}
+</style>
